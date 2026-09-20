@@ -50,9 +50,8 @@ I bridge the gap between building robust software and breaking down security bar
 
 <p align="left">
   <a href="www.linkedin.com/in/ansif-alath-4bb6b5438" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
+      </a>
   <a href="mailto:ansifmuhammed222@gmail.com">
-    <img src="https://shields.io" alt="Email">
+  
   </a>
 </p>
