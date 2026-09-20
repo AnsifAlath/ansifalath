@@ -49,9 +49,11 @@ I bridge the gap between building robust software and breaking down security bar
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ansif-alath-4bb6b5438" target="_blank">
-      </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:ansifmuhammed222@gmail.com">
-  
+    <img src="https://shields.io" alt="Email">
   </a>
 </p>
