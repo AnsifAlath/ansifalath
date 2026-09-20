@@ -1,6 +1,6 @@
 # Hi there, I'm Ansif Muhammed 👋
 
-### 🛡️ OSCP Certified | Secure Software Developer & Cyber Security Engineer
+### 🛡️ OCSP Certified | Secure Software Developer & Cyber Security Engineer
 
 I bridge the gap between building robust software and breaking down security barriers. With a strong foundation in backend development and offensive security, I focus on engineering applications that are secure by design.
 
