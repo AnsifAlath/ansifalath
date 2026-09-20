@@ -42,19 +42,17 @@ I bridge the gap between building robust software and breaking down security bar
 
 ## 🚀 Featured Projects
 
-* 🛠️ *[Project Name 1]* - A secure backend application built in *Java/Spring Boot* featuring role-based access control.
-* 🐍 *[Project Name 2]* - A custom *Python* script automated for network enumeration and exploit modification.
-* 📦 *[Project Name 3]* - My sandbox environment detailing secure coding practices and vulnerability patching.
-
----
+* 🛠️ *INTEGRATED MACHINE LEARNING AND WEB DEVELOPMENT* - A full-stack web application integrated with a machine learning engine to process user data and deliver real-time automated predictions through a secure backend.
+  
+  ---
 
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com[your-username]" target="_blank">
+  <a href="www.linkedin.com/in/ansif-alath-4bb6b5438" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:ansifmuhammed222@gmail.com">
     <img src="https://shields.io" alt="Email">
   </a>
 </p>
