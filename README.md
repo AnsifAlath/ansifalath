@@ -9,7 +9,7 @@ I bridge the gap between building robust software and breaking down security bar
 ## 💼 Core Credentials & Certifications
 <p align="left">
   <!-- Replace the URL inside the src="" with your actual Credly / OffSec badge image URL if you have one, or keep this generic badge -->
-  <img src="https://shields.io" alt="OSCP Certified" height="40">
+  <img src="https://shields.io" alt="OCSP Certified" height="40">
 </p>
 
 ---
