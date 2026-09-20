@@ -85,7 +85,7 @@ I bridge the gap between building robust software and breaking down security bar
 
 - 💼 LinkedIn: [linkedin.com/in/ansif-alath-4bb6b5438](https://www.linkedin.com/in/ansif-alath-4bb6b5438)
 - ✉️ Email: [ansifmuhammed222@gmail.com](mailto:ansifmuhammed222@gmail.com)
-- 💬 WhatsApp: 9539926922
-- 📞 Phone: [+966 57 729 8750](tel:+966577298750)
+- 💬 WhatsApp: [+91 95399 26922](https://wa.me/919539926922?text=Hi%20Ansif%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect)
+- 📞 Phone (Saudi Arabia): +966 57 729 8750
 
 Open to Cyber Security Engineer and Software Developer roles in Saudi Arabia.
